@@ -2,7 +2,8 @@
 
 An interactive Power BI executive dashboard analyzing customer attrition patterns, revenue loss, and contract friction across 7,043 telecom accounts. This project isolates operational churn drivers and quantifies monthly recurring revenue (MRR) at risk to inform proactive retention strategies.
 
-![Dashboard Preview](dashboard_screenshot.png)
+<img width="1308" height="726" alt="image" src="https://github.com/user-attachments/assets/a7c86bb3-18e3-4605-ae0d-a8542dd3a695" />
+
 
 ---
 
